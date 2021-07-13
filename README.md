@@ -1,1 +1,1 @@
-# R.P.S-game
+# Rock paper scissor game in python
